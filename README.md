@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Anderson, I'm from Poços de Caldas - MG - Brazil and I'm 37 years old.
-- 👀 I’m interested in increase my knowledges in programing.
+- 👋 Hi, I’m Anderson, I'm from Poços de Caldas - MG - Brazil and I'm 37 years old. I have 8+ years experience with automate tasks using excel and VBA.
+- 👀 I’m interested in increase my knowledges in programing and get a job as developer.
 - 🌱 I’m currently learning WEB DEVELOPMENT.
 - 💞️ I’m looking to collaborate on projects that can be revised to give me a feedback of my new skills.
 - 📫 How to reach me, andersonalvesmartins@gmail.com
